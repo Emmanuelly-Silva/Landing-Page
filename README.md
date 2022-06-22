@@ -10,7 +10,7 @@ O objetivo do projeto é criar um modelo de landing page com um bom design e que
 
 ## Layout do projeto:
 <br>
-<img src="./components/images/Landing-Page.png"/>
+<img src="./components/images/Layout-Landing-Page.png"/>
 <br>
 
 ## Tecnologias utilizadas:
