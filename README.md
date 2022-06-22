@@ -5,7 +5,7 @@ Esse projeto de landing page é responsivo para dispositivos móveis e foi desen
 <br>
 O objetivo do projeto é criar um modelo de landing page com um bom design e que pode ser adaptado de acordo com o tema escolhido.
 <br><br>
-<a href="https://emmanuelly-silva.github.io/Landing-page/" target="_blank"><b><i>Clique aqui para testar o projeto</i></b></a>.
+<a href="https://emmanuelly-silva.github.io/Landing-page/" target="_blank" rel="noreferrer"><b><i>Clique aqui para testar o projeto</i></b></a>.
 <br><br>
 
 ## Layout do projeto:
