@@ -26,6 +26,6 @@ As seguintes tecnologias foram usadas no desenvolvimento do projeto:
 
 
 ## 📝 Autora:
-⚡ *Emmanuelly Lavínia da Silva*
+⚡ Emmanuelly Lavínia da Silva
 
 <img height="150" align="right" src="https://c.tenor.com/KOMN72qhJ-sAAAAC/haikyuu-hinata.gif"/>
