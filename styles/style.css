@@ -16,6 +16,13 @@ header {
     border-bottom: 0.4px solid #FFF2E7;
 }
 
+.header-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 30px;
+}
+
 #title {
     flex-direction: column;
     line-height: 10px;
@@ -35,6 +42,15 @@ a:hover {
     color: #7FFFD4;
     transition: 0.3s all;
     font-weight: bold;
+}
+
+.link-github {
+    display: flex;
+}
+
+.link-github i {
+    color: white;
+    font-size: 40px;
 }
 
 #btn-inscreva-se {
